@@ -4,7 +4,6 @@ A small document-intelligence tool. It reads an invoice (PDF or photo, English o
 
 It runs entirely in the browser: no server, no install, no build step.
 
-![Reviewing an invoice with a mistake](docs/screenshot-review.jpg)
 
 ## What it does
 

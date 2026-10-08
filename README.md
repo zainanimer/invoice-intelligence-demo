@@ -92,6 +92,4 @@ node tests/core.test.js
 - A confidence signal from comparing two passes of the model.
 - Export to a proper accounting format.
 
-## License
 
-MIT. See `LICENSE`.

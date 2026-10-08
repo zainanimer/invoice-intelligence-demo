@@ -4,6 +4,7 @@ A small document-intelligence tool. It reads an invoice (PDF or photo, English o
 
 It runs entirely in the browser: no server, no install, no build step.
 
+**Live demo:** https://zainanimer.github.io/invoice-intelligence-demo/
 
 ## What it does
 

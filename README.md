@@ -29,7 +29,6 @@ Amounts in Jordanian dinars use three decimals, so the rounding tolerance is set
 2. Pick one of the four **sample invoices**. They are fictional and work without any key. One has a wrong line total on purpose.
 3. To read your own files, open **AI settings** and paste a free Gemini API key from [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
 
-![An Arabic invoice](docs/screenshot-arabic.jpg)
 
 ## How it works
 

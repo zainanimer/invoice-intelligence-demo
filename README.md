@@ -3,7 +3,7 @@
 A small document-intelligence tool. It reads an invoice (PDF or photo, English or Arabic) with Google Gemini, turns it into structured data, and then **checks whether the numbers add up**, the way an accountant would. Fields are editable, so a person can correct the AI's mistakes and watch the checks update.
 
 It runs entirely in the browser: no server, no install, no build step.
-file:///C:/Users/ZainaAlnimr/Downloads/invoice-intelligence-demo/invoice-intelligence-demo/index.html
+
 
 ## What it does
 

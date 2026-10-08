@@ -4,6 +4,9 @@ A small document-intelligence tool. It reads an invoice (PDF or photo, English o
 
 It runs entirely in the browser: no server, no install, no build step.
 
+watch the demo:  https://github.com/user-attachments/assets/85a2be7f-779b-4d02-8bf1-140d505c0aee
+
+
 
 ## What it does
 
